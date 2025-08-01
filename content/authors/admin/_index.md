@@ -35,13 +35,10 @@ education:
   courses:
     - course: PhD in Computer and Control Engineering
       institution: Politecnico di Torino
-      year: 2021
     - course: MSc in Computer Engineering
       institution: Politecnico di Torino
-      year: 2017
     - course: BSc in Computer Engineering
       institution: Politecnico di Torino
-      year: 2015
 
 
 # Social/Academic Networking
@@ -52,15 +49,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:eliana.pastor@polito.it'
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=rYnakoAAAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/eliana-pastor/
+    label: Connect on Linkdin
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/eliana__pastor
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=rYnakoAAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/elianap

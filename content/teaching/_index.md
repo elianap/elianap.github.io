@@ -14,10 +14,10 @@ comments: false  # Show comments?
 #  image: "./teaching.jpeg"
 ---
 
-## Course holder - 2023/2024
+## Course holder
 
-- Explainable and Trustworthy AI - MSc (2023/2024)
-- Business Intelligence per i Big Data - MSc (2023/2024)
+- Explainable and Trustworthy AI - MSc (2024/2025, 2023/2024)
+- Business Intelligence per i Big Data - MSc (2024/2025, 2023/2024)
 - Data mining concepts and algorithms - PhD corse (2023/2024)
 
 ## Teaching assistant
@@ -36,17 +36,10 @@ comments: false  # Show comments?
 
 I am co-supervising the activities of two PhD students at Politecnico di Torino (main advisor: Elena Baralis):
 
-- **Alkis Koudounas**. He is a second-year Ph.D student. His current research focuses on spoken language understanding, speech processing and explainable AI. He is involve in  a joint project with Amazon Alexa AI. His interest also lies in the development of resources for under-represented languages. He serves as Italian Language Ambassador for the AYA Cohere4AI project.
+- **Alkis Koudounas**. He is a third-year Ph.D student. His current research focuses on spoken language understanding, speech processing and explainable AI. He is involve in  a joint project with Amazon Alexa AI. His interest also lies in the development of resources for under-represented languages. He serves as Italian Language Ambassador for the AYA Cohere4AI project.
 
-- Eleonora Poeta. She is 1rst year PhD student working on Trustworthy AI, with a focus on Explainable AI and Safety. 
+- Eleonora Poeta. She is 2nd year PhD student working on Trustworthy AI, with a focus on Explainable AI and Safety. Her research interest are on Concept-based Explainability and safety and robustness for medical applications.
 
 ## Master Thesis Supervisor
 
-I supervised and co-supervised the thesis of several Master Degree students at Politecnico di Torino:
-
-- Enrico Porcelli 
-- Damiano Bonaccorsi
-- Simone Lo Truglio
-- Nicola Maddalozzo
-- Giuseppe Concialdi (co-supervision)
-- ..
+I supervised and co-supervised the thesis of several Master Degree students at Politecnico di Torino. [Here](https://webthesis.biblio.polito.it/view/relators/Pastor=3AEliana=3A=3A.html) the full list.
