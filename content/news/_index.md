@@ -12,7 +12,7 @@ view: 1
 - May 25, our investigation on the adoption of [Kolmogorov-Arnold Networks for spoken language understanding](https://arxiv.org/abs/2505.20176) was accepted at **Interspeech 2025**!
 - May 25, our study for [detecting and mitigating challenges in zero-shot video summarization with Video LLMs](https://aclanthology.org/2025.findings-acl.16/) in collaboration with Amazon Science was accepted at **ACL 2025 (Findings)**;
 - May 25, our [privacy preserving data selection approach for bias mitigation in speech models](https://aclanthology.org/2025.acl-industry.52/) in collaboration with Amazon Science will be presented in July at the **ACL 2025 Industry Track**;
-- May 24, in my course on Explainable and Trustworthy AI we had a series of great XAI seminars by [Alan Perotti](https://centai.eu/people), [José Oramas](https://www.uantwerpen.be/en/staff/jose-oramas/) and [Riccardo Renzulli](https://riccardorenzulli.github.io/)!
+- May 25, in my course on Explainable and Trustworthy AI we had a series of great XAI seminars by [Alan Perotti](https://centai.eu/people), [José Oramas](https://www.uantwerpen.be/en/staff/jose-oramas/) and [Riccardo Renzulli](https://riccardorenzulli.github.io/)!
 - Apr 25, our [hands-on tutorial](https://cxai-mechint-htutorial-kdd2025.github.io/) on Concept-Based Explainable AI and Mechanistic Interpretability in collaboration with CENTAI was asccepted at **KDD 2025**! See you in Toronto!
 - Apr 25, I received a **SIGMOD 2025 Distinguished Reviewer Award**!
 - Mar 25, our tutorial on [Concept-based Explainability](https://sites.google.com/view/cxai-tutorial) was accepted for **ECML PKDD 2025**! See you in Porto!

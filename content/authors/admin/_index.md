@@ -55,7 +55,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/eliana-pastor/
-    label: Connect on Linkdin
+    label: Connect on Linkedin
     display:
       header: true
   - icon: twitter
